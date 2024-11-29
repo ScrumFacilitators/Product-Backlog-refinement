@@ -1,3 +1,3 @@
 # Product-Backlog-refinement
 
-Product Backlog Refinement is inspired by collaboration with Jordann Gross https://www.linkedin.com/in/jordanngross/
+Focus Area for Product Backlog Refinement is inspired and in collaboration with Jordann Gross https://www.linkedin.com/in/jordanngross/
